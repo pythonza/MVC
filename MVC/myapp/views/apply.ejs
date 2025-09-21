@@ -1,0 +1,9 @@
+<h2>Apply for <%= job.job_title %></h2>
+<p>Company: <%= job.company_name %></p>
+<p>Deadline: <%= job.deadline %></p>
+
+
+<form action="/apply/<%= job.job_id %>" method="POST">
+  <input type="hidden" name="candidate_id" value="<%= user.id %>">
+  <button type="submit">Submit Application</button>
+</form>

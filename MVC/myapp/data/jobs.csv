@@ -1,0 +1,11 @@
+job_id,job_title,company_id,status,job_type,deadline
+20000001,Software Engineer,10000001,open,normal,2025-10-31
+20000002,Data Analyst,10000001,open,normal,2025-11-05
+20000003,Intern Web Developer,10000001,open,internship,2025-11-10
+20000004,System Administrator,10000001,open,normal,2025-10-28
+20000005,UX/UI Designer,10000001,open,normal,2025-09-30
+20000006,Mobile Developer,10000002,open,internship,2025-11-15
+20000007,QA Tester,10000002,open,normal,2025-11-01
+20000008,Project Manager,10000002,open,normal,2025-11-20
+20000009,Co-op Data Engineer,10000002,open,internship,2025-11-12
+20000010,Technical Writer,10000002,open,normal,2025-10-25
